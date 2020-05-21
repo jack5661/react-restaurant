@@ -1,0 +1,28 @@
+.NavBar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    top: 0;
+    height: 55px;
+}
+
+.Tabs {
+    color: white;
+    list-style-type: none;
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+
+.Tabs > li {
+    float: right;
+    padding: 0px 15px 0px 15px;
+    height: 100%;
+}
+
+.Tabs > li:hover {
+    color: grey;
+    background-color: black;
+}

@@ -1,0 +1,56 @@
+.Slideshow {
+    display: flex;
+    flex-direction: column;
+    height: 540px;
+    background-color: rgba(0, 0, 0, 0.75);
+    overflow-y: auto;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.MealCard {
+    color: white;
+    margin-top: 10px;
+}
+
+.Foods {
+    display: flex;
+    justify-content: center;
+}
+
+.MenuCard {
+    display: block;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.95);
+    padding: 15px;
+    margin: 40px 50px 40px 50px;
+    border-radius: 20px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border: 6px solid rgb(190, 253, 190);
+    border-radius: 250px;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+.MealTitle {
+    font-size: 35px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.FoodTitle {
+    font-size: 30px;
+}
+
+.divider {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}

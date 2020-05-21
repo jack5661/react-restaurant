@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: url("assets/restaurant.jpeg");
+    background-size: cover;
+}
+
+.Box {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 120px auto 0px auto;
+    color: white;
+    text-align: center;
+    width: 50%;
+    padding: 30px;
+}
+
+.Title {
+    font-size: 60px;
+    margin: 10px 0px 10px 0px;
+}
