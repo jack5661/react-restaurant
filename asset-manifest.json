@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-restaurant/static/css/main.d958e8c3.chunk.css",
+    "main.js": "/react-restaurant/static/js/main.15226a77.chunk.js",
+    "main.js.map": "/react-restaurant/static/js/main.15226a77.chunk.js.map",
+    "runtime-main.js": "/react-restaurant/static/js/runtime-main.0ba26c4f.js",
+    "runtime-main.js.map": "/react-restaurant/static/js/runtime-main.0ba26c4f.js.map",
+    "static/js/2.e76a0a4b.chunk.js": "/react-restaurant/static/js/2.e76a0a4b.chunk.js",
+    "static/js/2.e76a0a4b.chunk.js.map": "/react-restaurant/static/js/2.e76a0a4b.chunk.js.map",
+    "index.html": "/react-restaurant/index.html",
+    "precache-manifest.d31063fbb7247a32b5d30a142a43f5e6.js": "/react-restaurant/precache-manifest.d31063fbb7247a32b5d30a142a43f5e6.js",
+    "service-worker.js": "/react-restaurant/service-worker.js",
+    "static/css/main.d958e8c3.chunk.css.map": "/react-restaurant/static/css/main.d958e8c3.chunk.css.map",
+    "static/js/2.e76a0a4b.chunk.js.LICENSE.txt": "/react-restaurant/static/js/2.e76a0a4b.chunk.js.LICENSE.txt",
+    "static/media/buffet.jpeg": "/react-restaurant/static/media/buffet.910b2d91.jpeg",
+    "static/media/burgers.jpeg": "/react-restaurant/static/media/burgers.316fa5ff.jpeg",
+    "static/media/burrito.jpeg": "/react-restaurant/static/media/burrito.6bab57e0.jpeg",
+    "static/media/cake.jpeg": "/react-restaurant/static/media/cake.21c4413c.jpeg",
+    "static/media/fruits.jpeg": "/react-restaurant/static/media/fruits.0ea24a10.jpeg",
+    "static/media/icecream.jpg": "/react-restaurant/static/media/icecream.9c047a0f.jpg",
+    "static/media/pancakes.jpeg": "/react-restaurant/static/media/pancakes.8b929915.jpeg",
+    "static/media/styles.css": "/react-restaurant/static/media/restaurant.dfb65c86.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba26c4f.js",
+    "static/js/2.e76a0a4b.chunk.js",
+    "static/css/main.d958e8c3.chunk.css",
+    "static/js/main.15226a77.chunk.js"
+  ]
+}
